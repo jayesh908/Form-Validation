@@ -1,0 +1,16 @@
+.sub{
+  padding-left: 70px;
+  padding-top: 19px;
+  padding-right: 70px;
+  padding-bottom: 17px;
+  border-radius: 7px;
+  background-color: #232324;
+  color: white;
+  font-size: 20px;
+}
+  .error {
+    color: red;
+  }
+  p {
+    color: red;
+  }
